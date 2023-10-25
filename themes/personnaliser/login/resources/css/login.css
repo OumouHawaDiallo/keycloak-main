@@ -66,6 +66,8 @@ a#kc-current-locale-link::after {
 
 .login-pf a:hover {
     color: #f0dd99;
+    outline: none;
+
 }
 
 #kc-logo {
