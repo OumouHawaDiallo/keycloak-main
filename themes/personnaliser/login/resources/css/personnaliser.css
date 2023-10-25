@@ -1,0 +1,60 @@
+.login-pf body {
+    background: url("../img/map.png") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+.card-pf {
+    margin: 0 auto;
+    box-shadow: var(--pf-global--BoxShadow--lg);
+    padding: 0 20px;
+    max-width: 500px;
+    height: 410px;
+    border-top: 4px solid;
+    border: 2px solid #f0dd99;
+    margin: 0 auto;
+    background-image: url("../img/douanes.jpeg");
+    background-size: 150px; 
+    background-repeat: no-repeat; 
+    background-position: center top;
+   
+   
+    
+    
+}
+
+div.kc-logo-text {
+  display: none;
+}
+#kc-login.pf-c-button.pf-m-primary.pf-m-block.btn-lg {
+    width: 200px;
+    margin-left: auto;
+    border-radius: 3px; 
+    font-weight: bold;
+    color: black; 
+    background-color:#f0dd99;
+   
+}
+
+#username.pf-c-form-control {
+    border: 2px solid #f0dd99;
+}
+
+#password.pf-c-form-control {
+    border: 2px solid #f0dd99;
+}
+.login-pf-header{
+    margin-top: 80px;
+}
+
+
+.forgot-password span a{
+    font-weight: bold;
+    color: black;
+    margin-top: 50px;
+}
+
+
+
+
+
